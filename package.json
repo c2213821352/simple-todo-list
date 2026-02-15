@@ -1,0 +1,12 @@
+{
+  "name": "simple-todo-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 'No build step, static deployment only'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
